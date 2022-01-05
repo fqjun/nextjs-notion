@@ -4,11 +4,11 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true'
 })
 
-module.exports = withBundleAnalyzer({
-  images: {
-    domains: ['']
-  }
-})
+// module.exports = withBundleAnalyzer({
+//   images: {
+//     domains: ['']
+//   }
+// })
 
 module.exports = {
   // time in seconds of no pages generating during static
