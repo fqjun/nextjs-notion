@@ -4,16 +4,16 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: "314abc8e-e898-452b-9171-fe6d70d9bab1",
 
   // basic site info (required)
   name: 'FQ-JUN-Blog',
-  domain: 'https://fqjun.notion.site/Learning-28a0ac3bcc454c3badab2a106eae6125',
+  domain: 'fqjun.xyz',
   author: 'feiqiujun',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'Personal site of Feiqiujun',
+  socialImageTitle: 'Feiqiujun',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
