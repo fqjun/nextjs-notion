@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'FQ-JUN-Blog',
-  domain: 'fqjun.xyz',
+  domain: 'www.fqjun.xyz',
   author: 'feiqiujun',
 
   // open graph metadata (optional)
