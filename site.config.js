@@ -47,7 +47,7 @@ module.exports = {
     '/Manifold': 'f9714b72771c4949832733ba4e18c0f2',
     '/Course': '386008a2c14d462d9ea9c317d23531af',
     '/Conversion': 'bbc7b36ea94f4cdaa6eb0a1bfcd5aab7',
-    '/Knowledge-Base': 'a3f96f2aeb214d62b2df323351d66d15d23531af',
+    '/Knowledge-Base': 'a3f96f2aeb214d62b2df323351d66d15',
     '/Method': '0a134da6916f4e46979d2c675f9acdb9',
     '/Collection-Of-Resources': 'a05f5fa1f9fa45398e5ca6661311d273',
     '/LaTeX': '1945754d78dc40de849c8d95a8c6e64b',
