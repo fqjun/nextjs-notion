@@ -10,8 +10,8 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 //   }
 // })
 
-// module.exports = {
-//   // time in seconds of no pages generating during static
-//   // generation before timing out
-//   staticPageGenerationTimeout: 90,
-// }
+module.exports = {
+  // time in seconds of no pages generating during static
+  // generation before timing out
+  staticPageGenerationTimeout: 90,
+}
